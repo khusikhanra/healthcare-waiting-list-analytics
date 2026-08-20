@@ -47,13 +47,15 @@ The design deliberately keeps each stage swappable: the warehouse layer doesn't 
 
 ### 1. The national trend line, and the COVID-19 effect
 
-![Line chart showing the national waiting list rising from about 565,000 patients in January 2018 to a peak near 690,000 by early 2021, with a shaded COVID-19 period from March 2020 onward](assets/monthly_trend.png)
+<img width="2000" height="840" alt="monthly_trend" src="https://github.com/user-attachments/assets/a9c44b8b-6886-40d8-976b-2a3e7d685fb0" />
+
 
 The list was already on a slow upward drift pre-pandemic (~565k → ~605k, Jan 2018–Feb 2020, +7%). From March 2020, elective activity was suspended and the backlog began compounding faster; by the final available snapshot (March 2021) the list stood at **687,763 patients**, up **21.6%** from the first available snapshot three years earlier. The single dip in early 2021 (a ~3% pullback from the December 2020 peak) is consistent with a brief reopening of elective capacity before renewed restrictions.
 
 ### 2. Outpatients dominate the backlog, nine-to-one
 
-![Pie chart showing 89.3% Outpatient vs 10.7% Inpatient patients in the March 2021 snapshot](assets/patient_type_split.png)
+<img width="1040" height="840" alt="patient_type_split" src="https://github.com/user-attachments/assets/f5be436f-a5c8-425f-a210-22f65337cc0f" />
+
 
 Of the 687,763 patients waiting in the latest snapshot, **614,280 (89.3%) are Outpatient referrals** (first consultant appointments) versus **73,483 (10.7%) Inpatient/Day-Case** (patients already diagnosed and awaiting a procedure). This is the single most important segmentation in the dataset: outpatient bottlenecks are a diagnostic-capacity problem, while inpatient bottlenecks are a theatre/bed-capacity problem — they require entirely different operational interventions, and this project's SQL schema keeps them as first-class dimensions rather than a single ambiguous "waiting list" figure.
 
