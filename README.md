@@ -233,7 +233,7 @@ Developer — data pipeline design, SQL analysis, and dashboard build for this p
 
 <p>
   <a href="https://github.com/<your-github-handle>"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Khusi_Khanra-181717?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/<your-linkedin-handle>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/khusi-khanra-a4b2b527b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
-> Replace the placeholder handles above with your actual GitHub/LinkedIn usernames (or drop the badges you don't want) before publishing.
+
