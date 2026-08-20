@@ -34,7 +34,8 @@ The pipeline answers four questions a hospital-operations or health-policy stake
 
 ## Pipeline architecture
 
-![Architecture diagram — raw NTPF extracts flow through Python ETL into a PostgreSQL warehouse, a Power BI semantic model, and out to dashboards](assets/architecture.png)
+<img width="1200" height="360" alt="architecture" src="https://github.com/user-attachments/assets/40b6ed99-bb8b-44d1-a4de-3e562f2232c6" />
+
 
 The design deliberately keeps each stage swappable: the warehouse layer doesn't care whether the source file changed from an Excel workbook to an API feed, and the BI layer only ever talks to governed SQL views — never to raw tables — so a broken source extract can't silently corrupt a published dashboard.
 
