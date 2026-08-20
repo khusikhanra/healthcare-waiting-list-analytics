@@ -61,13 +61,15 @@ Of the 687,763 patients waiting in the latest snapshot, **614,280 (89.3%) are Ou
 
 ### 3. Ten specialties carry roughly half the load
 
-![Horizontal bar chart of the top 10 specialties by patients waiting, led by Orthopaedics at 83,256](assets/top_specialties.png)
+<img width="1700" height="1000" alt="top_specialties" src="https://github.com/user-attachments/assets/6190c01a-53bc-4e8a-8737-335c5f9ef898" />
+
 
 **Orthopaedics** is the single largest specialty (83,256 patients, 12.1% of the snapshot total), followed by **Otolaryngology/ENT** (71,052) and **Ophthalmology** (55,288). These three alone account for roughly 30% of the entire national list. In a resourcing conversation, this chart is the one-slide argument for where an additional theatre list or outsourced treatment contract would move the national number the most.
 
 ### 4. Waiting times are bimodal — most patients wait under 6 months, but a large long-tail exists
 
-![Bar chart of patients by waiting-time band, showing the largest groups in 0–3 months and 18+ months](assets/time_bands.png)
+<img width="1800" height="840" alt="time_bands" src="https://github.com/user-attachments/assets/01e27889-6763-4210-b419-0f57a5928358" />
+
 
 **146,583 patients (21.3%)** have been waiting 0–3 months and **123,672 (18.0%)** 3–6 months — the "normal churn" of a functioning system. But **177,607 patients (25.8%)**, the single largest band, have been waiting **18 months or longer**. That long-tail is the group least likely to resolve without direct intervention (insourcing, outsourcing, or the NTPF's own treatment-purchase mechanism), and it is the metric this dashboard tracks month-over-month as the primary KPI.
 
@@ -238,5 +240,3 @@ Developer — data pipeline design, SQL analysis, and dashboard build for this p
   <a href="https://github.com/<your-github-handle>"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Khusi_Khanra-181717?logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/khusi-khanra-a4b2b527b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
-
-
