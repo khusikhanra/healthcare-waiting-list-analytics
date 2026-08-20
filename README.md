@@ -236,7 +236,11 @@ Code and analysis in this repository are released under the [MIT License](LICENS
 **Khusi Khanra**
 Developer — data pipeline design, SQL analysis, and dashboard build for this project.
 
-<p>
-  <a href="https://github.com/<your-github-handle>"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Khusi_Khanra-181717?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/khusi-khanra-a4b2b527b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+<p align="left">
+  <a href="https://github.com/khusikhanra">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Khusi_Khanra-181717?logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/khusi-khanra-a4b2b527b/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
+  </a>
 </p>
