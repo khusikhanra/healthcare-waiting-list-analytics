@@ -235,6 +235,7 @@ Code and analysis in this repository are released under the [MIT License](LICENS
 
 **Khusi Khanra**
 Data Analytics Consultant | SQL • Python • PostgreSQL • Power BI
+
 Designed and developed the end-to-end healthcare analytics pipeline, transforming raw healthcare data into structured analytical datasets, SQL-based insights, KPIs, and interactive Power BI dashboards for data-driven decision-making.
 
 <p align="left">
